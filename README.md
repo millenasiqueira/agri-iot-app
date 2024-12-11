@@ -1,1 +1,1 @@
-# agri-iot-app
+# agri-iot-client
